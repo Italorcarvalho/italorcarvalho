@@ -24,4 +24,4 @@ Olá, Eu sou o Ítalo Rosa Carvalho!
 </div>
 
 
-![snake gif](https://github.com/italorcarvalho/italorcarvalho/blob/output/github-contribution-grid-snake.svg)
+
