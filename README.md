@@ -2,8 +2,8 @@ Olá, Eu sou o Ítalo Rosa Carvalho!
 
 <div>
   <a href="https://github.com/Italorcarvalho">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=italorcarvalho&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-     <img height="130cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italorcarvalho&layout=compact&langs_count=16&theme=merko"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=italorcarvalho&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=italorcarvalho&layout=compact&langs_count=16&theme=merko"/>
 <div>
   
   <div style="display: inline_block"><br>
